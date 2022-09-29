@@ -268,3 +268,40 @@ footer {
 #copyright {
     text-align:center;
 }
+
+/*Artists*/
+
+.artists {
+    padding-top: 30px;
+    width: 100%;
+    font-size: 120%;
+    color:#ffffff;
+    font-family: "Chakra Petch", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.carapace {
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+.img-left {
+    height: 300px;
+    border-radius: 50%;
+}
+
+.img-right {
+    height: 300px;
+    border-radius: 50%;
+}
+
+.text-left {
+    display:flex;
+    justify-content: flex-end;
+}
+
+.trypt {
+    display: flex;
+    flex-direction: row;
+}
