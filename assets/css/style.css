@@ -221,3 +221,50 @@ input#img-5:checked ~ .nav-dots label#img-dot-5,
 input#img-6:checked ~ .nav-dots label#img-dot-6 {
   background: rgba(0, 0, 0, 0.8);
 }
+
+/*Footer*/
+
+footer {
+    font-family: "Chakra Petch", sans-serif;
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
+}
+
+.social-links {
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    width: 42px;
+    height: 42px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 30px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: black;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: black;
+    border-bottom: 3px solid #fff;
+}
+
+#footer-details {
+    padding: 20px;
+    display: flex;
+}
+
+.col-6 {
+    text-align: center;
+}
+
+#copyright {
+    text-align:center;
+}
