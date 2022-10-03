@@ -2,7 +2,6 @@
 
 The Replica Recordings is a record label celebrating new and underground alternative music from South Wales. This website is a place that both looks to platform the artists that have released music on the label, and serve as an invitation for new artists to connect and create with the label also. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 The website consists of three pages: the Home page, the Artists page, and the Demo's page
 
@@ -42,10 +41,6 @@ The other colours featured in the website are from the release artworks, or arti
 3. As a returning user, I want to know how to submit music, and see how I'll be represented. 
 
 
-- __Design Choices__
-
-
-
 
 ## Features 
 
@@ -64,7 +59,7 @@ ithub.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
   - Whilst part of the Navbar, it's important to highlight the logo on the left hand side. The image contains the signature Replica Recordings image, serving as both the quickest possible way for a user to identify the brand, and an eye-catching anchor at the top of the page that will return the user to the home page from other parts of the site. 
   
 
-- __The landing page image__
+- __Title Section__
 
   - The landing includes a banner with text overlay to allow the user to see the actual name and description of the brand for the first time. 
   - This section involves a  transulcent banner over a deliberately abstract yet eye catching image for the text and description while also helping to create an initial atmosphere for the site.
