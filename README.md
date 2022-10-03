@@ -37,7 +37,8 @@ The website consists of three pages: the Home page, the Artists page, and the De
   - Featured on all three pages, the full responsive navigation bar includes links to the Home page, Artist page and Demo page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://g![Uploading Screenshot 2022-10-03 at 09.26.47.png…]()
+ithub.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
 - __The Logo__
  
@@ -46,8 +47,8 @@ The website consists of three pages: the Home page, the Artists page, and the De
 
 - __The landing page image__
 
-  - The landing includes a image with text overlay to allow the user to see the actual name and description of the brand for the first time. 
-  - This section uses a deliberately abstract yet eye catching image as a background for the text and description while also helping to create an initial atmosphere for the site.
+  - The landing includes a banner with text overlay to allow the user to see the actual name and description of the brand for the first time. 
+  - This section involves a  transulcent banner over a deliberately abstract yet eye catching image for the text and description while also helping to create an initial atmosphere for the site.
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
