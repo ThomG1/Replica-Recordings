@@ -11,12 +11,20 @@ The website consists of three pages: the Home page, the Artists page, and the De
 - __First Time Users__
 
 1.As a first time user, I want to easily understand the main purpose of the site and the record labels role as a promoter of existing artists, and a platform for emerging artists.
+
 2.As a first time user, I want to be able to get good visual representation of the musical content released without having heard the music, from the aesthetic of the website, artist profiles and release artworks.
+
 3.As a first time user, I want clear and distinguishable sections that are easy to find and move between. 
+
 4.As a first time user, I want to be able to leave the website to find out more via social media or access the music directly.
 
 - __Returning Users__
 
+1. As a returning user, I want to easily find the links I didn't use the first time, for instance if I checked out the social media, I now want to find the music.
+
+2. As a returning user, I want to be easily able to find what updated have occurred since my last visit. 
+
+3. As a returning user, I want to know how to submit music, and see how I'll be represented. 
 
 
 
