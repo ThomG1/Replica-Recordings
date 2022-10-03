@@ -8,6 +8,21 @@ The website consists of three pages: the Home page, the Artists page, and the De
 
 ## User Experience (UX)
 
+- __Design Choices__
+
+The overall feel of the sites design is dark, ambigious and atmospheric as this matches the style and aethetic of the music released on the label. 
+
+- __Font__
+The font used throughout the site is Chakra Petch to give the site an industrial feel, achieved by the lack of curves in the letters. This also works in contrast to the heavily curved, abstract shapes used in the background.
+
+- __Icons__
+The icons used from font awesome were chosen for their simplicity to ensure all users can identify them.
+
+- __Colours__
+
+The colours used are intentionally minimal. The primary colours used in the background are black and grey. To contrast used, the font throughout is white. 
+The other colours featured in the website are from the release artworks, or artist profiles. There is no set colour scheme for these as they are dependant on the artist, however this in itself is a stylistic choice that highlights the individuality and uniqueness of the artists against the minimal colour scheme of the main website. 
+
 - __First Time Users__
 
 1.As a first time user, I want to easily understand the main purpose of the site and the record labels role as a promoter of existing artists, and a platform for emerging artists.
@@ -25,6 +40,10 @@ The website consists of three pages: the Home page, the Artists page, and the De
 2. As a returning user, I want to be easily able to find what updated have occurred since my last visit. 
 
 3. As a returning user, I want to know how to submit music, and see how I'll be represented. 
+
+
+- __Design Choices__
+
 
 
 
