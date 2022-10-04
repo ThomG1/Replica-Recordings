@@ -22,7 +22,7 @@ a:focus {
     background-size: cover;
 }
 
-/*Header*/
+/* Header  */
 
 header {
     height: 200px;
@@ -69,7 +69,7 @@ header {
     border-bottom: 1px solid #000;
 }
 
-/*Hero Image*/
+/* Hero Image */
 
 #hero-outer {
     height: 500px;
@@ -94,7 +94,7 @@ header {
     height: 400px;
 }
 
-/*About*/
+/* About */
 
 .about-text {
     font-family: "Chakra Petch", sans-serif;
@@ -103,7 +103,7 @@ header {
     margin-left: 30px;
 }
 
-/*Latest*/
+/* Latest */
 
 .latest-text {
     font-family: "Chakra Petch", sans-serif;
@@ -114,7 +114,7 @@ header {
     overflow: scroll;
 }
 
-/*releases*/
+/* releases */
 
 .slides {
     padding: 0;
@@ -222,7 +222,7 @@ input#img-6:checked ~ .nav-dots label#img-dot-6 {
   background: rgba(0, 0, 0, 0.8);
 }
 
-/*Footer*/
+/* Footer */
 
 footer {
     font-family: "Chakra Petch", sans-serif;
@@ -269,7 +269,7 @@ footer {
     text-align:center;
 }
 
-/*Artists*/
+/* Artists */
 
 .artists {
     padding-top: 30px;
@@ -306,7 +306,7 @@ footer {
     flex-direction: row;
 }
 
-/*Demo Form*/
+/* Demo Form */
 
 .demo-heading {
     font-family: "Chakra Petch", sans-serif;
