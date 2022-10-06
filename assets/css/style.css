@@ -249,18 +249,25 @@ footer {
     flex-direction: row;
 }
 
-.overlay {
+.carapace-hov {
+    position: relative;
+}
+
+.overlay-cara {
     position: absolute;
+    height: 300px;
+    border-radius: 50%;
+    display:flex;
+    justify-content: center;
     top: 0;
     bottom: 0;
     left: 0;
     right: 0;
     opacity: 0;
     transition: .5s ease;
-    background-color: #000000;
   }
   
-  .carapace-hov:hover .overlay {
+  .carapace-hov:hover .overlay-cara {
     opacity: 1;
   }
   
