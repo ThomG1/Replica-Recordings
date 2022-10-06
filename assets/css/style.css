@@ -130,8 +130,7 @@ header {
 }
 
 /* releases */
-
-.carousel-slide {
+#carouselExampleCaptions{
     padding: 0;
     width: 420px;
     height: 420px;
