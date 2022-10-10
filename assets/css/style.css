@@ -15,7 +15,6 @@ a:focus {
 .demosbody {
     background: url('../images/shape5-min.jpg') no-repeat center center;
     background-size: cover;
-   
 }
 
 .artistsbody {
@@ -323,6 +322,16 @@ button[type="submit"] {
     margin-bottom: 20px;
     color: #fafafa;
     background-color: black;
+}
+
+.demo-section {
+    flex: 1 0 auto;
+}
+
+.demo-container {
+    display:flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 
