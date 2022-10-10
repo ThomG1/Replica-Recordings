@@ -15,13 +15,7 @@ a:focus {
 .demosbody {
     background: url('../images/shape5-min.jpg') no-repeat center center;
     background-size: cover;
-    min-height: 100vh;
-    margin: 0;
-    padding: 8px;
-    box-sizing: border-box;
-    display: flex;
-    flex-direction: column;
-    margin-top: auto;
+   
 }
 
 .artistsbody {
@@ -146,10 +140,7 @@ header {
     margin: 0 auto;
     position: relative;
     font-family: "Chakra Petch", sans-serif;
-
     border: 2px solid #ffffff;
-
-
 }
 
 /* Footer */
@@ -298,9 +289,6 @@ footer {
     letter-spacing: 4px;
   }
 
-
-
-
 /* Demo Form */
 
 .demo-heading {
@@ -324,5 +312,7 @@ button[type="submit"] {
     color: #fafafa;
     background-color: black;
 }
+
+
 
 
