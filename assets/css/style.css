@@ -261,7 +261,7 @@ footer {
 .overlay-cara {
     position: absolute;
     height: 300px;
-    border-radius: 50%;
+
     display:flex;
     justify-content: center;
     top: 0;
