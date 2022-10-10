@@ -291,6 +291,15 @@ footer {
     letter-spacing: 4px;
   }
 
+  .artist-head {
+    font-size: 200%;
+    font-family: "Chakra Petch", sans-serif;
+    letter-spacing: 4px;
+    text-align: center;
+    color: #ffffff;
+    text-transform: uppercase;
+  }
+
 /* Demo Form */
 
 .demo-heading {
@@ -305,6 +314,7 @@ footer {
     padding-top:10px;
     margin:0 auto;
     max-width:70%;
+
 }
 
 button[type="submit"] {
