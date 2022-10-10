@@ -70,6 +70,10 @@ header {
     border-bottom: 1px solid #000;
 }
 
+.container-fluid {
+    z-index: 1;
+}
+
 /* Hero Image */
 
 #hero-outer {
