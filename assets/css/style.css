@@ -100,7 +100,9 @@ header {
     font-family: "Chakra Petch", sans-serif;
     letter-spacing: 2px;
     color: white;
-    margin-left: 30px;
+    margin: auto;
+
+  
     background-color: #000;
 
     border-radius: 25px;
@@ -116,9 +118,8 @@ header {
     font-family: "Chakra Petch", sans-serif;
     letter-spacing: 2px;
     color: white;
-    margin-left: 30px;
     height: 300px;
-    overflow: scroll;
+    margin:auto;
 
     background-color: #000;
 
@@ -138,6 +139,10 @@ header {
     margin: 0 auto;
     position: relative;
     font-family: "Chakra Petch", sans-serif;
+
+    border: 2px solid #ffffff;
+
+
 }
 
 /* Footer */
@@ -208,12 +213,14 @@ footer {
     height: 300px;
     border-radius: 50%;
     margin-left: 30px;
+    border: 2px solid #ffffff;
 }
 
 .img-right {
     height: 300px;
     border-radius: 50%;
     margin-right:30px;
+    border: 2px solid #ffffff;
 }
 
 .text-left {
