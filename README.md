@@ -2,6 +2,8 @@
 
 The Replica Recordings is a record label celebrating new and underground alternative music from South Wales. This website is a place that both looks to platform the artists that have released music on the label, and serve as an invitation for new artists to connect and create with the label also. 
 
+![Mock Up](documentation/screenshots/mockups1.jpg)
+
 
 The website consists of three pages: the Home page, the Artists page, and the Demo's page
 
@@ -63,14 +65,12 @@ The other colours featured in the website are from the release artworks, or arti
   - The landing includes a banner with text overlay to allow the user to see the actual name and description of the brand for the first time. 
   - This section involves a  transulcent banner over a deliberately abstract yet eye catching image for the text and description while also helping to create an initial atmosphere for the site.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Home Page](documentation/screenshots/homepage.png)
 
 - __About Section__
 
   - The 'About' section will allow the user to quickly immerse themselves in the ethos of the label and encourage users to explore the other sections of the site.
   - This user will quickly understand the value the label places on it's artists and the music it releases and be encouraged to do the same. This should result in the user to begin exploring the artists, or be inspired to get involved in the label themselves. 
-
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
 - __Latest Section__
 
@@ -80,28 +80,26 @@ The other colours featured in the website are from the release artworks, or arti
   - __Releases Section__
 
   - This section will provider the user with a sample of some of the artwork from the latest Replica Recordings releases. The aim is to give a visual representation of the primary content the label puts out. 
- 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
 - __The Footer__ 
 
   - The footer section is split in two halves. The left half includes links to the social media sites for Replica Recordins under a 'Find Us' heading. The right half includes links to streaming platforms so they user can engage directly with the content being released by the label and it's artists. All links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it directs them straight to the musical content, and social media links to follow and engage with on an ongoing basis. 
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](documentation/screenshots/footer.png)
 
 - __Artist Page__
 
   - This page will give the user pictures of the artists or their releases along with a text blurb explaining key information about each one. 
   - This section is valuable to the user as they will be able to view the artists themselves, as will as specific information about them, and as a prospective artist be able to preview how they would be depicted on the site should they become part of the label.  
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Footer](documentation/screenshots/artists.png)
 
 - __Demo Page__
 
   - This page will allow the user to become familiar with how the process of signing music works through Replica Recordings. The aim of this page is to demonstrate to prospective artists the clear, and simple process of how to submit music, and gives insight to general users and fans by including a summary of the approach in the 'If we like it, we'll sign it' section.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Demo Page](documentation/screenshots/demopage.png)
 
 ## Testing 
 
