@@ -226,7 +226,6 @@ footer {
     display:flex;
     justify-content: flex-end;
     background-color: #000;
-
     border-radius: 25px;
     border: 2px solid #ffffff;
     padding: 20px;
@@ -253,7 +252,6 @@ footer {
     display: flex;
     flex-direction: row;
 }
-
 
 .carapace-hov {
     position: relative;
@@ -304,10 +302,12 @@ footer {
 
 .demo-heading {
     font-family: "Chakra Petch", sans-serif;
-    font-weight:700;
     margin-top: 25px;
     margin-bottom:20px;
     color:#ffffff;
+    background-color: #000;
+    border-radius: 25px;
+    border: 2px solid #ffffff;
 }
 
 .center-form {
@@ -353,6 +353,11 @@ button[type="submit"] {
     padding-top: 25px;
 
    }
+
+   .container-fluid {
+    flex-direction: row;
+   }
+
 }
 
 
