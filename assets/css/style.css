@@ -38,23 +38,18 @@ header {
 #logo {
     background: url('../images/replicalogo.jpg') no-repeat center center;
     background-size:cover;
-    border-radius: 50%;
     height:120px;
     width:120px;
     margin-left: 30px;
-    margin-top: 40px;
-    padding-top: 70px;
-    padding-bottom: 0%;
 }
+
 #menu {
     font-family: "Chakra Petch", sans-serif;
     font-size: 110%;
     list-style-type: none;
     letter-spacing: 4px;
-    line-height: 75px;
     color:white;
     align-self: center;
-    padding-top: 60px;
 }
 
 #menu li {
