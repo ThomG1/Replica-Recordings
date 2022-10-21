@@ -108,6 +108,7 @@ The other colours featured in the website are from the release artworks, or arti
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
@@ -118,17 +119,17 @@ The other colours featured in the website are from the release artworks, or arti
 - The site was deployed to GitHub pages. 
 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://thomg1.github.io/Replica-Recordings/ 
 
 
 ## Credits 
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
+- Bootstrap version 5.2 has been used throughout for responsiveness.
 - Partial sections of the code were taken from Code Institute's Love Running and Resume Projects.
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- The image slider in the index.html page was built using Avi Kohn's CSS Image Slider w/ next/prev btns & nav dots - https://codepen.io/AMKohn/details/DZYKEV
+
 
 ### Media
 
