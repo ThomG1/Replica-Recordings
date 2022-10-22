@@ -332,6 +332,11 @@ button[type="submit"] {
 
 /* Media Queries */
 
+@media screen and (max-width: 1180px){
+    .carapace-hov {
+        padding-top: 30px;}
+}
+
 @media screen and (max-width: 768px){
    .carapace {
     flex-direction: column-reverse;

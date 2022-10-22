@@ -113,15 +113,15 @@ The other colours featured in the website are from the release artworks, or arti
 
 ## Technologies Used
 
-- [HTML5] (https://en.wikipedia.org/wiki/HTML5) - Used for page content
-- [CSS] (https://en.wikipedia.org/wiki/CSS) - Used for design and layout
-- [Bootstrap] (https://getbootstrap.com) - Used for responsiveness and carousel
-- [Git] (https://git-scm.com/) - Used for version control
-- [GitHub] (https://github.com/) - Used for online storage of code
-- [Gitpod] (https://www.gitpod.io)- Used for cloud-based IDE editor
-- [Balsamiq] (https://balsamiq.com/) - Used for wireframes
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) - Used for page content
+- [CSS](https://en.wikipedia.org/wiki/CSS) - Used for design and layout
+- [Bootstrap](https://getbootstrap.com) - Used for responsiveness and carousel
+- [Git](https://git-scm.com/) - Used for version control
+- [GitHub](https://github.com/) - Used for online storage of code
+- [Gitpod](https://www.gitpod.io)- Used for cloud-based IDE editor
+- [Balsamiq](https://balsamiq.com/) - Used for wireframes
 - [Font Awesome](https://fontawesome.com/) - Used for icons
-- [Hover.css] (http://ianlunn.github.io/Hover/) - Used for hover effects
+- [Hover.css](http://ianlunn.github.io/Hover/) - Used for hover effects
 
 
 ## Testing 
@@ -130,7 +130,7 @@ The other colours featured in the website are from the release artworks, or arti
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator for index.html](https://validator.w3.org/nu/?doc=https://thomg1.github.io/Replica-Recordings/index.html)
+ No errors were returned when passing through the official [W3C validator for index.html](https://validator.w3.org/nu/?doc=https://thomg1.github.io/Replica-Recordings/index.html)
 
   ![Index-validation](documentation/screenshots/index-val.png)
 
@@ -141,10 +141,15 @@ The other colours featured in the website are from the release artworks, or arti
     [W3C validator for demos.html](https://validator.w3.org/nu/?doc=https://thomg1.github.io/Replica-Recordings/demos.html)
   ![Demos-validation](documentation/screenshots/artists-val.png)
 
+  ### Responsiveness
+
+
+
 
 
 - CSS
-  - Some errors were found when passing through the official CSS validator, although on investigation, it appears the errors displayed are a result of bootstrap, rather than errors in the CSS code itself
+  
+  Some errors were found when passing through the official CSS validator, although on investigation, it appears the errors displayed are a result of bootstrap, rather than errors in the CSS code itself
    [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthomg1.github.io%2FReplica-Recordings)
   ![css-validation](documentation/screenshots/css-val.png)
 
