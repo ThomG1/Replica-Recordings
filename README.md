@@ -130,10 +130,30 @@ The other colours featured in the website are from the release artworks, or arti
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator for index.html](https://validator.w3.org/nu/?doc=https://thomg1.github.io/Replica-Recordings/index.html)
+
+  ![Index-validation](documentation/screenshots/index-val.png)
+
+  [W3C validator for artists.html](https://validator.w3.org/nu/?doc=https://thomg1.github.io/Replica-Recordings/artists.html)
+
+  ![Artists-validation](documentation/screenshots/artists-val.png)
+
+    [W3C validator for demos.html](https://validator.w3.org/nu/?doc=https://thomg1.github.io/Replica-Recordings/demos.html)
+  ![Demos-validation](documentation/screenshots/artists-val.png)
+
+
 
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - Some errors were found when passing through the official CSS validator, although on investigation, it appears the errors displayed are a result of bootstrap, rather than errors in the CSS code itself
+   [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthomg1.github.io%2FReplica-Recordings)
+  ![css-validation](documentation/screenshots/css-val.png)
+
+  When the code itself is copied and pasted into the validator, this displays no errors: 
+
+    ![css-validation](documentation/screenshots/css-val-2.png)
+
+  
+
 
 
 ## Deployment
