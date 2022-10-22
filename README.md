@@ -111,6 +111,19 @@ The other colours featured in the website are from the release artworks, or arti
 
 ![Demo Page](documentation/screenshots/demopage.png)
 
+## Technologies Used
+
+- [HTML5] (https://en.wikipedia.org/wiki/HTML5) - Used for page content
+- [CSS] (https://en.wikipedia.org/wiki/CSS) - Used for design and layout
+- [Bootstrap] (https://getbootstrap.com) - Used for responsiveness and carousel
+- [Git] (https://git-scm.com/) - Used for version control
+- [GitHub] (https://github.com/) - Used for online storage of code
+- [Gitpod] (https://www.gitpod.io)- Used for cloud-based IDE editor
+- [Balsamiq] (https://balsamiq.com/) - Used for wireframes
+- [Font Awesome](https://fontawesome.com/) - Used for icons
+- [Hover.css] (http://ianlunn.github.io/Hover/) - Used for hover effects
+
+
 ## Testing 
 
 
