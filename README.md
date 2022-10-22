@@ -24,6 +24,8 @@ The icons used from font awesome were chosen for their simplicity to ensure all 
 The colours used are intentionally minimal. The primary colours used in the background are black and grey. To contrast used, the font throughout is white. 
 The other colours featured in the website are from the release artworks, or artist profiles. There is no set colour scheme for these as they are dependant on the artist, however this in itself is a stylistic choice that highlights the individuality and uniqueness of the artists against the minimal colour scheme of the main website. 
 
+![Site Colours](documentation/screenshots/site-colours.png)
+
 - __First Time Users__
 
 1.As a first time user, I want to easily understand the main purpose of the site and the record labels role as a promoter of existing artists, and a platform for emerging artists.
@@ -58,6 +60,8 @@ The other colours featured in the website are from the release artworks, or arti
 - __The Logo__
  
   - Whilst part of the Navbar, it's important to highlight the logo on the left hand side. The image contains the signature Replica Recordings image, serving as both the quickest possible way for a user to identify the brand, and an eye-catching anchor at the top of the page that will return the user to the home page from other parts of the site. 
+
+  ![Logo](assets/images/replicalogo.jpg)
   
 
 - __Title Section__
@@ -72,14 +76,20 @@ The other colours featured in the website are from the release artworks, or arti
   - The 'About' section will allow the user to quickly immerse themselves in the ethos of the label and encourage users to explore the other sections of the site.
   - This user will quickly understand the value the label places on it's artists and the music it releases and be encouraged to do the same. This should result in the user to begin exploring the artists, or be inspired to get involved in the label themselves. 
 
+  ![About](documentation/screenshots/about-screenshot.png)
+
 - __Latest Section__
 
   - This section will allow the user to see exactly how the label operates on a day to day basis, it gives concise summaries of the latest releases, events and news.  
   - The busy schedule of releases, events and news will be regularly updated, this will encourage the user to regularly return to the site and serves to demonstrate the impressive and involved work rate of the label and artists. 
+
+    ![Latest](documentation/screenshots/latest-screenshot.png)
   
   - __Releases Section__
 
   - This section will provider the user with a sample of some of the artwork from the latest Replica Recordings releases. The aim is to give a visual representation of the primary content the label puts out. 
+
+     ![Releases](documentation/screenshots/releases-screenshot.png)
 
 - __The Footer__ 
 
