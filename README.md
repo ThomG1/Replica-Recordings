@@ -141,11 +141,6 @@ The other colours featured in the website are from the release artworks, or arti
     [W3C validator for demos.html](https://validator.w3.org/nu/?doc=https://thomg1.github.io/Replica-Recordings/demos.html)
   ![Demos-validation](documentation/screenshots/artists-val.png)
 
-  ### Responsiveness
-
-
-
-
 
 - CSS
   
@@ -156,6 +151,39 @@ The other colours featured in the website are from the release artworks, or arti
   When the code itself is copied and pasted into the validator, this displays no errors: 
 
     ![css-validation](documentation/screenshots/css-val-2.png)
+
+  ### Responsiveness
+
+  - The site has been tested for responsiveness on desktop, tablet and phone sized screens.
+   
+    ![Home-desktop](documentation/screenshots/firefox-home.png)
+   
+    ![Home-tablet](documentation/screenshots/home-tablet.png)
+   
+    ![Home-phone](documentation/screenshots/home-phone.jpeg)
+
+    ![Artists-desktop](documentation/screenshots/firefox-artists.png)
+
+    ![Artists-tablet](documentation/screenshots/artists-tablet.png)
+
+    ![Artists-phone](documentation/screenshots/artists-phone.jpeg)
+
+    ![Demos-desktop](documentation/screenshots/firefox-demos.png)
+
+    ![Demos-tablet](documentation/screenshots/demos-tablet.png)
+
+    ![Demos-phone](documentation/screenshots/demos-phone.jpeg)
+
+
+
+
+
+
+
+
+
+
+
 
   
 
