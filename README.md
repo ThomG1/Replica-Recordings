@@ -44,6 +44,12 @@ The other colours featured in the website are from the release artworks, or arti
 
 3. As a returning user, I want to know how to submit music, and see how I'll be represented. 
 
+## Wireframes
+
+As part of the planning, I completed the below Wireframes using Balsamiq: 
+
+![Wireframes](documentation/wireframes/allwireframes.png)
+
 
 
 ## Features 
@@ -155,12 +161,16 @@ The other colours featured in the website are from the release artworks, or arti
   ### Responsiveness
 
   - The site has been tested for responsiveness on desktop, tablet and phone sized screens.
-   
+ 
+  - Home Page
+
     ![Home-desktop](documentation/screenshots/firefox-home.png)
    
     ![Home-tablet](documentation/screenshots/home-tablet.png)
    
     ![Home-phone](documentation/screenshots/home-phone.jpeg)
+
+  - Artists Page
 
     ![Artists-desktop](documentation/screenshots/firefox-artists.png)
 
@@ -168,34 +178,86 @@ The other colours featured in the website are from the release artworks, or arti
 
     ![Artists-phone](documentation/screenshots/artists-phone.jpeg)
 
+  - Demos Page
+
     ![Demos-desktop](documentation/screenshots/firefox-demos.png)
 
     ![Demos-tablet](documentation/screenshots/demos-tablet.png)
 
     ![Demos-phone](documentation/screenshots/demos-phone.jpeg)
 
+  ### Browser Compatability
+
+  All pages of the site have been tested on the browsers Chrome, Firefox and Safari: 
+
+  - Chrome
+
+     ![Chrome-home](documentation/screenshots/chrome-home.png)
+
+     ![Chrome-artists](documentation/screenshots/chrome-artists.png)
+
+     ![Chrome-demos](documentation/screenshots/chrome-demos.png)
 
 
+  - Firefox 
 
+     ![Firefox-home](documentation/screenshots/firefox-home.png)
 
+     ![Firefox-artists](documentation/screenshots/firefox-artists.png)
 
+     ![Firefox-demos](documentation/screenshots/firefox-demos.png)
 
+  - Safari
 
+     ![Safari-Home](documentation/screenshots/safari-home.png)
 
+     ![Safari-artists](documentation/screenshots/safari-artists.png)
 
+     ![Safari-demos](documentation/screenshots/safari-demos.png)
 
+  ### Bugs
 
-  
+  There are no bugs that I am aware of. 
 
+  ### Testing User Stories
+
+  - __First Time Users__
+
+1.As a first time user, I am able to easily understand the main purpose of the site and the record labels role as a promoter of existing artists, and a platform for emerging artists.
+
+2.As a first time user, I am able to get good visual representation of the musical content released without having heard the music, from the aesthetic of the website, artist profiles and release artworks.
+
+3.As a first time user, I am able to get a clear and distinguishable sections that are easy to find and move between. 
+
+4.As a first time user, I am able to leave the website to find out more via social media or access the music directly.
+
+- __Returning Users__
+
+1. As a returning user, I can easily find the links I didn't use the first time, for instance if I checked out the social media, I now want to find the music.
+
+2. As a returning user, I can easily find what updated have occurred since my last visit. 
+
+3. As a returning user, I know how to submit music, and see how I'll be represented. 
 
 
 ## Deployment
 
+The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the [GitHub repository](https://github.com/ThomG1/Replica-Recordings), navigate to the Settings tab 
+  - From the source section drop-down menu, select the **Main** Branch, then click "Save".
+  - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-- The site was deployed to GitHub pages. 
+The live link can be found [here](https://thomg1.github.io/Replica-Recordings)
 
+### Local Deployment
 
-The live link can be found here - https://thomg1.github.io/Replica-Recordings/ 
+In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository:
+
+- `git clone https://github.com/ThomG1/Replica-Recordings.git`
+
+Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ThomG1/Replica-Recordings)
 
 
 ## Credits 
