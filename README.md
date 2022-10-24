@@ -278,11 +278,11 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 
 ### Content 
 
-- Bootstrap version 5.2 has been used throughout for responsiveness.
-- Partial sections of the code were taken from Code Institute's Love Running and Resume Projects.
+- [Bootstrap](https://getbootstrap.com) version 5.2 has been used throughout for responsiveness.
+- Partial sections of the code were taken from Code Institute's [Love Running](https://codeinstitute.net/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=CI+-+UK+-+Search+-+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=1578649861&hsa_grp=62188641240&hsa_ad=581730217381&hsa_src=g&hsa_tgt=kwd-319867646331&hsa_kw=code%20institute&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMIzrnC7PL5-gIVjYFQBh3IeAm_EAAYASAAEgIoHvD_BwE) and Resume Projects.
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 
 ### Media
 
-- All photos and images used throughout the Replica Recordings website are owned by myself. 
+- All photos and images used throughout the Replica Recordings website are owned by https://github.com/ThomG1. 
