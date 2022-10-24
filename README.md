@@ -109,7 +109,7 @@ As part of the planning, I completed the below Wireframes using Balsamiq:
   - This page will give the user pictures of the artists or their releases along with a text blurb explaining key information about each one. 
   - This section is valuable to the user as they will be able to view the artists themselves, as will as specific information about them, and as a prospective artist be able to preview how they would be depicted on the site should they become part of the label.  
 
-![Footer](documentation/screenshots/artists.png)
+![Artists](documentation/screenshots/artists.png)
 
 - __Demo Page__
 
@@ -225,11 +225,19 @@ As part of the planning, I completed the below Wireframes using Balsamiq:
 
 1.As a first time user, I am able to easily understand the main purpose of the site and the record labels role as a promoter of existing artists, and a platform for emerging artists.
 
+ ![About](documentation/screenshots/about-screenshot.png)
+
 2.As a first time user, I am able to get good visual representation of the musical content released without having heard the music, from the aesthetic of the website, artist profiles and release artworks.
+
+ ![Releases](documentation/screenshots/releases-screenshot.png)
 
 3.As a first time user, I am able to get a clear and distinguishable sections that are easy to find and move between. 
 
+![Nav Bar](documentation/screenshots/navbar.png)
+
 4.As a first time user, I am able to leave the website to find out more via social media or access the music directly.
+
+![Footer](documentation/screenshots/footer.png)
 
 - __Returning Users__
 
@@ -237,7 +245,13 @@ As part of the planning, I completed the below Wireframes using Balsamiq:
 
 2. As a returning user, I can easily find what updated have occurred since my last visit. 
 
+ ![Latest](documentation/screenshots/latest-screenshot.png)
+
 3. As a returning user, I know how to submit music, and see how I'll be represented. 
+
+![Demo Page](documentation/screenshots/demopage.png)
+
+
 
 
 ## Deployment
