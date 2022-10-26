@@ -145,7 +145,7 @@ As part of the planning, I completed the below Wireframes using Balsamiq:
   ![Artists-validation](documentation/screenshots/artists-val.png)
 
     [W3C validator for demos.html](https://validator.w3.org/nu/?doc=https://thomg1.github.io/Replica-Recordings/demos.html)
-  ![Demos-validation](documentation/screenshots/artists-val.png)
+  ![Demos-validation](documentation/screenshots/demos-val.png)
 
 
 - CSS
